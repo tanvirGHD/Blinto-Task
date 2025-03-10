@@ -109,6 +109,15 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+@media (max-width: 768px) {
+    .title {
+        font-size: 2rem;
+        color: #333;
+        margin-bottom: 20px;
+    }
+    
+}
+
 
 
 /* Brands Container Styling */
